@@ -5,4 +5,4 @@ edition = "2024"
 
 [dependencies]
 js-sys = "0.3.77"
-leptos = { version = "0.8.15", features = ["csr"] }
+leptos = { version = "0.8.15"  }
